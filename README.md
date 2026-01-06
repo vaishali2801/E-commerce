@@ -154,3 +154,7 @@ Frontend Developer | IT Student
 
 If you like this project, please ⭐ star the repository on GitHub.
 Feedback and suggestions are always welcome!
+<img width="1280" height="674" alt="Screenshot 2026-01-06 at 1 11 59 PM" src="https://github.com/user-attachments/assets/96f08b1d-0280-4a27-9e96-1316efae234a" />
+<img width="1280" height="673" alt="Screenshot 2026-01-06 at 1 11 32 PM" src="https://github.com/user-attachments/assets/6dd3d37e-e623-4bc4-9797-e42f8e77ae2a" />
+<img width="1280" height="678" alt="Screenshot 2026-01-06 at 1 11 14 PM" src="https://github.com/user-attachments/assets/2a6668a7-b545-48a8-b9e8-86cd26a9d6b8" />
+
